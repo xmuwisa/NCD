@@ -14,6 +14,13 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
+            <head>
+                <link
+                    rel="icon"
+                    href="/images/logo/White.png"
+                    type="image/png"
+                />
+            </head>
             <body>
                 <Header />
                 {children}
