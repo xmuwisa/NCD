@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
 
-import { Header } from '@/components/layout'
+import { Header, Footer } from '@/components/layout'
 
 export const metadata: Metadata = {
     title: 'National Crush Day',
@@ -24,6 +24,7 @@ export default function RootLayout({
             <body>
                 <Header />
                 {children}
+                <Footer />
             </body>
         </html>
     )
