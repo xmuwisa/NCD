@@ -4,7 +4,7 @@ const years = [2024, 2025]
 
 const Footer = () => {
     return (
-        <nav className="bg-white w-svw p-10 space-x-2 text-black">
+        <nav className="bg-white text-black p-5 space-x-2">
             {years.map((year) => (
                 <Link
                     key={year}

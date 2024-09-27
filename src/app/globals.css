@@ -36,4 +36,6 @@ body {
 * {
     font-family: 'Poppins', sans-serif;
     letter-spacing: -1px;
+    margin: 0;
+    padding: 0;
 }

@@ -21,7 +21,7 @@ export default function RootLayout({
                     type="image/png"
                 />
             </head>
-            <body>
+            <body className="w-screen max-w-full m-0 p-0">
                 <Header />
                 {children}
                 <Footer />
