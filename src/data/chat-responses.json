@@ -1,0 +1,77 @@
+{
+    "chatResponses": [
+        {
+            "index": 0,
+            "chat": ".",
+            "reply": ["i mwuv you"]
+        },
+        {
+            "index": 1,
+            "chat": "i miss you",
+            "reply": [
+                "ihhhh",
+                "i miss you, too",
+                "kinikilig ako",
+                "hehe",
+                ">////<"
+            ]
+        },
+        {
+            "index": 2,
+            "chat": "crush kita",
+            "reply": [
+                "ihhh, for real ba yan?",
+                "halaaaaa<3",
+                "omg >////<",
+                "weeeeh?"
+            ]
+        },
+        {
+            "index": 3,
+            "chat": "kisses",
+            "reply": ["xoxo", "mwaaaaah", "hihihihi<3", ":3", "more!"]
+        },
+        {
+            "index": 4,
+            "chat": "hugs",
+            "reply": ["yes please", "more! yay", "cubble", "ihh>//<", "hehe"]
+        },
+        {
+            "index": 5,
+            "chat": "how are you?",
+            "reply": [
+                "craving for my baby",
+                "aght_T_T",
+                "i need my cubble",
+                "spend time with me",
+                "missing you",
+                "i'm good >< hbu?"
+            ]
+        },
+        {
+            "index": 6,
+            "chat": "nothing",
+            "reply": ["ehhhh", "luh", "ihh", "ok", "what?", "hmm"]
+        },
+        {
+            "index": 7,
+            "chat": "luh",
+            "reply": ["luh ka rin", ".-."]
+        },
+        {
+            "index": 8,
+            "chat": "idk",
+            "reply": ["what?", "luh", "ihh", "ehhh", "ok", "hmp"]
+        },
+        {
+            "index": 9,
+            "chat": "ihhhh",
+            "reply": ["hehehe", ">//<", "ihhhh"]
+        },
+        {
+            "index": 10,
+            "chat": "baby",
+            "reply": ["baby ka diyan ><", "yes, baby?", "hmm?", ";)"]
+        }
+    ]
+}
